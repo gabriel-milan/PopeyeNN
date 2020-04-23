@@ -1,13 +1,15 @@
-# Unity Boat physics Tutorial
+# PopeyeNN
 
-Learn how to make a realistic boat in Unity:
+## Introduction
 
-YouTube video showing the result:
+This repo was forked from an Unity tutorial repo (more information on Credits). I'll use the boat physics implementation to try to train an autonomous boat.
 
+## Credits
+
+This was forked from the "Make a realistic boat in Unity", from Habrador.
+[Link to the original repo](https://github.com/Habrador/Unity-Boat-physics-Tutorial)
+
+YouTube video showing the result from the tutorial:
 [![Boat physics in Unity video](http://img.youtube.com/vi/6Ec-gxpC-Ik/0.jpg)](http://www.youtube.com/watch?v=6Ec-gxpC-Ik "Boat physics in Unity video")
 
-Link to tutorial: https://www.habrador.com/tutorials/unity-boat-tutorial/
-
-Notice that the code here hasn't exactly the same code structure as in the tutorial. I'm still not happy with the water surface and will update with a better version in the future. 
-
-Follow me on Twitter for more Unity stuff: https://twitter.com/eriknordeus
+[Link to the tutorial](https://www.habrador.com/tutorials/unity-boat-tutorial/)
